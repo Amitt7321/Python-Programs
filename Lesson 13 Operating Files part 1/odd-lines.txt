@@ -1,0 +1,7 @@
+1 -> Maths: Learn equations today
+2 -> Coding: Variables and loops
+3 -> Science: Photosynthesis
+4 -> Coding: If statements
+5 -> English: Essay writing
+6 -> Coding: Functions and recursion
+7 -> History: World War II
